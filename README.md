@@ -3,5 +3,5 @@
 ## 规则列表
 
 - `115.list`：115 网盘域名规则。
-- `emby.list`：Emby 反代域名规则。
+- `emby-proxy.list`：Emby 反代域名规则。
 
